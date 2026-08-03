@@ -10,7 +10,7 @@
 
 ## 🎯 What I Do
 
-I help small businesses in Pakistan get online and automate their operations.
+I help small businesses get online and automate their operations.
 
 **Services:**
 - 🌐 Modern responsive websites (React, Next.js, Tailwind)
