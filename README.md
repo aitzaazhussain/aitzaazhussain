@@ -1,6 +1,102 @@
-## Hi there 👋
 # 💫 About Me:
-**Recent commits:**<br>- Daily updates to `daily-builds` repo<br>- Portfolio improvements<br>- Client project code<br>- Learning experiments<br>- Feature implementations<br><br>---<br><br>## 🎓 Education & Certifications<br><br>**Currently:** BS Cyber Security - Uni Pak Austria, Haripur  <br>- Overall CGPA: 3.09<br><br>**Internship:** Glaxit LLM Web Mastery  <br>- Focus: Building modern web solutions with AI<br>- Projects: Dynamic dashboards, full-stack applications<br><br>**Self-Taught:** React, Next.js, Node.js, Supabase, OpenAI API, n8n<br><br>---<br><br>## 📬 Connect & Work With Me<br><br>**Email:** hello.aitzaazhussain@gmail.com<br><br>**Profiles:**<br>- 🔗 [Portfolio](https://aitzaazhussain.vercel.app/)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/aitzaazhussain/)<br>- 💰 [Upwork](https://www.upwork.com/freelancers/~017909d227afb10dfb)<br>- 🎨 [Fiverr](https://www.fiverr.com/aitzaazhussain)<br>- 📷 [Instagram](https://www.instagram.com/aitzaazhussain/)<br><br>---<br><br>## 🎯 What's Next<br><br>- Scaling local client base (Abbottabad/Haripur)<br>- Building 10+ client websites by end of 2026<br>- Advanced AI integrations<br>- Shopify + ecommerce solutions<br>- Expanding to international clients<br><br>---<br><br>## 💡 Why Work With Me?<br><br>✅ **Fast Delivery** — Website live in 5-7 days  <br>✅ **Modern Tech** — React, Next.js, AI-ready solutions  <br>✅ **Affordable** — Pricing designed for small businesses  <br>✅ **Full-Stack** — Frontend, backend, database, auth  <br>✅ **Local Expert** — Understand Pakistan market  <br>✅ **Active Builder** — Daily commits, continuous learning  <br>✅ **Professional** — Clean code, documentation, support  <br><br>---<br><br>## 📈 Current Focus (August 2026)<br><br>Building websites for small businesses in Pakistan.<br><br>**Goal:** 5-10 live client projects by end of 2026<br><br>**Available for:**<br>- Website projects (React/Next.js)<br>- AI chatbot integration<br>- Business automation<br>- Full-stack development<br>- Freelance work (Upwork/Fiverr)<br><br>---<br><br>## 🔗 GitHub Repos<br><br>**Public Repositories:**<br>- `portfolio-website` — Live portfolio (Next.js + Supabase)<br>- `client-websites-template` — Reusable website template<br>- `daily-builds` — Daily progress & learnings<br>- `ai-automation-workflows` — n8n automation examples<br>- `good-food-dashboard` — React dashboard project<br><br>---<br><br>## 📝 Quote<br><br>> "I build modern websites and AI automation for small businesses."<br><br>**Mission:** Help small businesses in Pakistan grow their online presence with affordable, professional web solutions.<br><br>---<br><br>**Last updated:** August 2026 | **Active:** Accepting new clients | **Response time:** < 24 hours
+## Hi there 👋
+# Aitzaaz Hussain | Web & AI Solutions for Small Businesses
+
+**I build modern websites and AI automation for small businesses.**
+
+📍 Abbottabad, Pakistan
+
+---
+
+## 🎯 What I Do
+
+I help small businesses in Pakistan get online and automate their operations.
+
+**Services:**
+- 🌐 Modern responsive websites (React, Next.js, Tailwind)
+- 🤖 AI chatbots & automation (OpenAI, n8n)
+- ⚡ Fast delivery (5-7 days)
+- 💼 Reasonable pricing
+
+**Perfect for:** Restaurants, Clinics, Salons, Real Estate, Retail Shops, Service Businesses
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React • Next.js • Tailwind CSS • Vite
+
+**Backend:** Node.js • Supabase • PostgreSQL
+
+**AI & Automation:** OpenAI API • n8n • ChatGPT Integration
+
+**Deployment:** Vercel
+
+**Other:** GitHub • Figma • TypeScript • REST APIs
+
+---
+
+## 📁 Recent Projects
+
+### Portfolio Website
+- **Live link:** https://aitzaazhussain.vercel.app/
+- **Tech:** Next.js, Tailwind CSS, Supabase
+- **Status:** Live
+
+### Restaurant Website Demo
+- **Purpose:** Modern restaurant website template — built to demonstrate design and delivery speed for local business leads
+- **Tech:** React, Tailwind, responsive design
+- **Status:** Demo project
+
+*More client projects coming soon...*
+
+---
+
+## 🚀 Currently Building
+
+- Closing local business clients (Abbottabad/Haripur)
+- Building fast, scalable websites
+- Adding AI features to websites
+- Learning automation workflows with n8n
+
+---
+
+## 💡 Why Work With Me?
+
+✅ **Fast Delivery** — Website live in 5-7 days </br>
+✅ **Reasonable** — Prices designed for small businesses  </br>
+✅ **AI-Ready** — Chatbots & automation included  </br>
+✅ **Professional** — Clean, modern code & design  </br>
+✅ **Local Expert** — Based in Abbottabad, understand Pakistan market  </br>
+✅ **Always Learning** — Updated with latest tech & trends  </br>
+
+---
+
+## 📊 Daily Progress
+
+I commit code daily. See my activity here: [github.com/aitzaazhussain](https://github.com/aitzaazhussain)
+
+Every day I'm building:
+- Client websites
+- Automation workflows
+- Portfolio updates
+- Learning & experimenting
+
+---
+
+## 📬 Get in Touch
+
+**Email:** hello.aitzaazhussain@gmail.com </br>
+**Insta:** [instagram.com/aitzaazhussain](https://www.instagram.com/aitzaazhussain/) </br>
+**LinkedIn:** [linkedin.com/in/aitzaazhussain](https://www.linkedin.com/in/aitzaazhussain/) </br>
+**Upwork:** [upwork.com/freelancers/~017909d227afb10dfb](https://www.upwork.com/freelancers/~017909d227afb10dfb) </br>
+**Fiverr:** [fiverr.com/aitzaazhussain](https://www.fiverr.com/aitzaazhussain) </br>
+
+---
+
+**Currently available for:** Website projects, automation setup, AI integration
+
+*Let's build something great together.*
 
 
 ## 🌐 Socials:
@@ -25,18 +121,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=aitzaazhussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**aitzaazhussain/aitzaazhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
