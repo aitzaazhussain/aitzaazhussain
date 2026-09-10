@@ -4,8 +4,6 @@
 
 **I build modern websites and AI automation for small businesses.**
 
-📍 Abbottabad, Pakistan
-
 ---
 
 ## 🎯 What I Do
@@ -54,12 +52,12 @@ I help small businesses get online and automate their operations.
 
 ## 🚀 Currently Building
 
-- Closing local business clients (Abbottabad/Haripur)
+- Started with local business clients but now moving towards international clients   
 - Building fast, scalable websites
 - Adding AI features to websites
 - Learning automation workflows with n8n
 
----
+--- 
 
 ## 💡 Why Work With Me?
 
