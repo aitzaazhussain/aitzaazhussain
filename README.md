@@ -10,7 +10,7 @@
 
 <br />
 
-<a href="https://aitzaazhussain.vercel.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Portfolio" /></a>
+<a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Portfolio" /></a>
 <a href="mailto:hello.aitzaazhussain@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E5A93C" alt="Hire Me" /></a>
 <a href="https://www.instagram.com/aitzaazhussain/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
@@ -38,7 +38,7 @@ My work sits between:
 
 I build **custom web systems** around real business problems.
 
-That means websites, web applications, internal tools and automation — designed around how a business actually runs, not around whichever technology happens to be interesting.
+That means websites, web applications, internal tools, and automation — designed around how a business actually runs, not around whichever technology happens to be interesting.
 
 `Web Apps` · `Customer Flows` · `Business Automation`
 
@@ -59,7 +59,7 @@ They have a collection of small problems that create friction:
 
 A website alone isn't always the solution. Sometimes the real problem is the **system around the website**.
 
-A customer may discover a business through Instagram, then open a bio link, then find another platform, then find a booking page, then receive a confirmation somewhere else. Meanwhile, the business may be managing orders, reservations, customers and operations across completely separate tools.
+A customer may discover a business through Instagram, then open a bio link, then find another platform, then find a booking page, then receive a confirmation somewhere else. Meanwhile, the business may be managing orders, reservations, customers, and operations across completely separate tools.
 
 ---
 
@@ -213,7 +213,7 @@ A master codebase is designed to be deployed independently for each restaurant b
 
 <div align="center">
 
-<a href="https://aitzaazhussain.vercel.app"><img src="https://img.shields.io/badge/SEE_THE_FULL_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Full Portfolio" /></a>
+<a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/SEE_THE_FULL_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Full Portfolio" /></a>
 
 </div>
 
@@ -247,7 +247,7 @@ A master codebase is designed to be deployed independently for each restaurant b
 
 ## 🌍 Who I Work With
 
-I work with businesses, founders and teams that need more than a generic website.
+I work with businesses, founders, and teams that need more than a generic website.
 
 - A business that needs a stronger digital customer journey
 - A company replacing disconnected manual workflows
@@ -266,7 +266,7 @@ I work with businesses, founders and teams that need more than a generic website
   <tr>
     <td align="right" width="26%"><b>🥇&nbsp;Primary</b></td>
     <td>
-      <a href="https://aitzaazhussain.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Portfolio" /></a>
+      <a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Portfolio" /></a>
       <a href="mailto:hello.aitzaazhussain@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E5A93C" alt="Hire Me" /></a>
     </td>
   </tr>
@@ -312,7 +312,7 @@ I can start with the problem and work toward the appropriate solution — whethe
 <div align="center">
 
 <a href="mailto:hello.aitzaazhussain@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-E5A93C?style=for-the-badge&logo=gmail&logoColor=0A0A0C" alt="Start a conversation" /></a>
-<a href="https://aitzaazhussain.vercel.app"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0A0A0C?style=for-the-badge&logo=vercel&logoColor=E5A93C" alt="Visit portfolio" /></a>
+<a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0A0A0C?style=for-the-badge&logo=vercel&logoColor=E5A93C" alt="Visit portfolio" /></a>
 
 <br /><br />
 
