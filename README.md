@@ -11,6 +11,7 @@
 <br />
 
 <a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Portfolio" /></a>
+<a href="https://restaurant-operations-live.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PROJECT-0A0A0C?style=for-the-badge&logo=vercel&logoColor=E5A93C" alt="Live Restaurant Operations Project" /></a>
 <a href="mailto:hello.aitzaazhussain@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E5A93C" alt="Hire Me" /></a>
 <a href="https://www.instagram.com/aitzaazhussain/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
@@ -41,6 +42,119 @@ I build **custom web systems** around real business problems.
 That means websites, web applications, internal tools, and automation — designed around how a business actually runs, not around whichever technology happens to be interesting.
 
 `Web Apps` · `Customer Flows` · `Business Automation`
+
+---
+## 🔨 Real Proof
+
+### Restaurant Operations — Live Order Control
+
+**A full restaurant operations system built around the complete restaurant workflow.**
+
+Built and demonstrated through **Ember & Crust**, a complete branded demo restaurant environment — its identity, branding, menu, UI, customer experience and operational workflows.
+
+One project. One system. Ember & Crust is the branded implementation.
+
+The system connects customer-facing experiences with internal restaurant operations across four roles: **Customer · Kitchen · Manager · Admin**.
+
+**Live deployment**
+
+`Frontend → Vercel` · `Backend → Railway` · `Database → MongoDB Atlas`
+
+**Core workflow**
+
+`Menu` → `Ordering` → `Live Order Status` → `Kitchen` → `Manager` → `Completion`
+
+The system also includes **reservations, customer accounts, role-based access, menu management, order lifecycle management and real-time Socket.IO communication.**
+
+<div align="center">
+
+<a href="https://restaurant-operations-live.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Open Live Restaurant Operations Project" /></a> <a href="https://just-creativity-production-606d.up.railway.app/"><img src="https://img.shields.io/badge/BACKEND_API-0A0A0C?style=for-the-badge&logo=railway&logoColor=E5A93C" alt="Backend API" /></a>
+
+</div>
+
+### 📸 Live product screens
+
+<p align="center">
+  <img src="customer-home.png" alt="Ember & Crust customer homepage" width="100%" />
+  <br /><sub><b>Customer home</b> — Ember & Crust storefront</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="order-pending.png" alt="Live order tracking — order received, waiting for confirmation" />
+      <br /><sub><b>Live order status</b> — order received, waiting for the restaurant</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="order-completed.png" alt="Live order tracking — completed order" />
+      <br /><sub><b>Live order status</b> — the order, completed</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="reservations.png" alt="Customer reservations with confirmed, pending and completed statuses" />
+      <br /><sub><b>Reservations</b> — confirmed · pending · completed</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="manager-dashboard.png" alt="Manager dashboard — live order monitor" />
+      <br /><sub><b>Manager dashboard</b> — live order monitor and confirmations</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="kitchen-dashboard.png" alt="Kitchen dashboard — active production queue" />
+      <br /><sub><b>Kitchen dashboard</b> — active production queue</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="admin-dashboard.png" alt="Admin dashboard — operations overview" width="100%" />
+      <br /><sub><b>Admin dashboard</b> — operations overview and analytics</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+**Customer experience**
+
+`Menu` → `Ordering` → `Order Status` → `Reservations` → `Account`
+
+**Operations**
+
+`Orders` → `Kitchen` → `Management` → `Reservations`
+
+**Core capabilities**
+
+- Customer authentication
+- Role-based access
+- Menu management
+- Ordering workflows
+- Order lifecycle management
+- Kitchen operations
+- Reservation requests
+- Reservation management
+- Customer reservation history
+- Manager workflows
+- Real-time Socket.IO communication
+- JWT authentication
+- MongoDB persistence
+
+**Architecture**
+
+A master codebase is designed to be deployed independently for each restaurant brand, with a separate database for each deployment rather than a shared multi-tenant database.
+
+**Stack**
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `Socket.IO` `JWT` `bcrypt`
+
+**Demo restaurant:** Ember & Crust
+
+<div align="center">
+<a href="https://restaurant-operations-live.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PROJECT-0A0A0C?style=for-the-badge&logo=vercel&logoColor=E5A93C" alt="Live Restaurant Operations Project" /></a>
+<a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/SEE_THE_FULL_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Full Portfolio" /></a>
+
+</div>
 
 ---
 
@@ -101,6 +215,8 @@ Good software isn't just about whether the code works. It also has to make sense
 
 That is the difference between building a feature and building a useful system.
 
+---
+
 ### The loop I follow
 
 ```text
@@ -119,103 +235,6 @@ And then the cycle starts again. Because the first version is rarely the final v
 > Make the complicated part invisible to the user.
 > A feature isn't finished when the code works. It's finished when the experience makes sense.
 > Build. Test. Break. Fix. Repeat.
-
----
-
-## 🔨 Real Proof
-
-### Restaurant Operations — Live Order Control
-
-**A full restaurant operations system.**
-
-Built and demonstrated through **Ember & Crust**, a complete branded demo restaurant environment — its identity, branding, menu, UI, customer experience and operational workflows.
-
-One project. One system. Ember & Crust is the branded implementation.
-
-The system connects customer-facing experiences with internal restaurant operations across four roles: **Customer · Kitchen · Manager · Admin**.
-
-### 📸 Live product screens
-
-<p align="center">
-  <img src="customer-home.png" alt="Ember & Crust customer homepage" width="100%" />
-  <br /><sub><b>Customer home</b> — Ember & Crust storefront</sub>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="order-pending.png" alt="Live order tracking — order received, waiting for confirmation" />
-      <br /><sub><b>Live order status</b> — order received, waiting for the restaurant</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="order-completed.png" alt="Live order tracking — completed order" />
-      <br /><sub><b>Live order status</b> — the order, completed</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="reservations.png" alt="Customer reservations with confirmed, pending and completed statuses" />
-      <br /><sub><b>Reservations</b> — confirmed · pending · completed</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="manager-dashboard.png" alt="Manager dashboard — live order monitor" />
-      <br /><sub><b>Manager dashboard</b> — live order monitor and confirmations</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="kitchen-dashboard.png" alt="Kitchen dashboard — active production queue" />
-      <br /><sub><b>Kitchen dashboard</b> — active production queue</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="admin-dashboard.png" alt="Admin dashboard — operations overview" width="100%" />
-      <br /><sub><b>Admin dashboard</b> — operations overview and analytics</sub>
-    </td>
-  </tr>
-</table>
-
-
-**Customer experience**
-
-`Menu` → `Ordering` → `Order Status` → `Reservations` → `Account`
-
-**Operations**
-
-`Orders` → `Kitchen` → `Management` → `Reservations`
-
-**Core capabilities**
-
-- Customer authentication
-- Role-based access
-- Menu management
-- Ordering workflows
-- Order lifecycle management
-- Kitchen operations
-- Reservation requests
-- Reservation management
-- Customer reservation history
-- Manager workflows
-- Real-time Socket.IO communication
-- JWT authentication
-- MongoDB persistence
-
-**Architecture**
-
-A master codebase is designed to be deployed independently for each restaurant brand, with a separate database for each deployment rather than a shared multi-tenant database.
-
-**Stack**
-
-`React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `Socket.IO` `JWT` `bcrypt`
-
-**Demo restaurant:** Ember & Crust
-
-<div align="center">
-
-<a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/SEE_THE_FULL_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Full Portfolio" /></a>
-
-</div>
 
 ---
 
