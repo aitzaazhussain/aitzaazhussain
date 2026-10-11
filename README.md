@@ -158,6 +158,63 @@ A master codebase is designed to be deployed independently for each restaurant b
 
 ---
 
+## ⚡ Case Study: Performance Fix on a Live System
+
+A real restaurant ordering system, measured with Google PageSpeed Insights before and after optimization.
+
+---
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/page-speed-before.png" alt="PageSpeed mobile report before optimization: performance 72" width="100%" />
+      <br /><sub><b>Mobile · Before</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/page-speed-after.png" alt="PageSpeed mobile report after optimization: performance 91" width="100%" />
+      <br /><sub><b>Mobile · After</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/page-speed-desktop-before.png" alt="PageSpeed desktop report before optimization" width="100%" />
+      <br /><sub><b>Desktop · Before</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/page-speed-desktop-after.png" alt="PageSpeed desktop report after optimization: performance 100" width="100%" />
+      <br /><sub><b>Desktop · After</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+### Before → After
+
+| Measure | Before | After |
+|---|---|---|
+| Mobile performance | 72 | **91** |
+| Mobile Largest Contentful Paint | 20.0 s | **3.1 s** |
+| Desktop performance | 80 | **100** |
+| SEO | 92 | **100** |
+| Image weight | 22.4 MB | **under 0.5 MB** |
+| Main JavaScript bundle | 521 kB | **337 kB** |
+
+**The problem:** The main image took 20 seconds to appear on a slow mobile connection. A real customer would have left before the menu loaded.
+
+**The cause:** about 22 MB of unoptimized PNG images (one favicon alone was 1.9 MB), a hero image the browser found late, and admin code downloaded by every customer.
+
+**The fix:** WebP images sized to their real display size, a preloaded hero image, code split by route, image dimensions to prevent layout jumps, a valid `robots.txt`, and cache headers.
+
+If your site is slow or something is broken, I can audit the actual cause and fix it.
+
+<div align="center">
+
+<a href="https://aitzaazhussain.online"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-E5A93C?style=for-the-badge&logo=vercel&logoColor=0A0A0C" alt="Visit portfolio" /></a>
+<a href="mailto:hello.aitzaazhussain@gmail.com?subject=Work%20with%20you"><img src="https://img.shields.io/badge/WORK_WITH_ME-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E5A93C" alt="Work with me" /></a>
+<a href="mailto:hello.aitzaazhussain@gmail.com?subject=I%20want%20to%20discuss%20my%20problem"><img src="https://img.shields.io/badge/DISCUSS_YOUR_PROBLEM-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E5A93C" alt="Discuss your problem" /></a>
+
+</div>
+
+---
 ## 🧩 Problem
 
 Businesses often don't have one big technology problem.
