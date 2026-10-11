@@ -75,40 +75,40 @@ The system also includes **reservations, customer accounts, role-based access, m
 ### 📸 Live product screens
 
 <p align="center">
-  <img src="customer-home.png" alt="Ember & Crust customer homepage" width="100%" />
+  <img src="assets/customer-home.png" alt="Ember & Crust customer homepage" width="100%" />
   <br /><sub><b>Customer home</b> — Ember & Crust storefront</sub>
 </p>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="order-pending.png" alt="Live order tracking — order received, waiting for confirmation" />
+      <img src="assets/order-pending.png" alt="Live order tracking — order received, waiting for confirmation" />
       <br /><sub><b>Live order status</b> — order received, waiting for the restaurant</sub>
     </td>
     <td width="50%" align="center">
-      <img src="order-completed.png" alt="Live order tracking — completed order" />
+      <img src="assets/order-completed.png" alt="Live order tracking — completed order" />
       <br /><sub><b>Live order status</b> — the order, completed</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="reservations.png" alt="Customer reservations with confirmed, pending and completed statuses" />
+      <img src="assets/reservations.png" alt="Customer reservations with confirmed, pending and completed statuses" />
       <br /><sub><b>Reservations</b> — confirmed · pending · completed</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="manager-dashboard.png" alt="Manager dashboard — live order monitor" />
+      <img src="assets/manager-dashboard.png" alt="Manager dashboard — live order monitor" />
       <br /><sub><b>Manager dashboard</b> — live order monitor and confirmations</sub>
     </td>
     <td width="50%" align="center">
-      <img src="kitchen-dashboard.png" alt="Kitchen dashboard — active production queue" />
+      <img src="assets/kitchen-dashboard.png" alt="Kitchen dashboard — active production queue" />
       <br /><sub><b>Kitchen dashboard</b> — active production queue</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="admin-dashboard.png" alt="Admin dashboard — operations overview" width="100%" />
+      <img src="assets/admin-dashboard.png" alt="Admin dashboard — operations overview" width="100%" />
       <br /><sub><b>Admin dashboard</b> — operations overview and analytics</sub>
     </td>
   </tr>
